@@ -1,0 +1,5 @@
+
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mysql://localhost/encurtador
+spring.datasource.username=root
+spring.datasource.password=drakiz.132
